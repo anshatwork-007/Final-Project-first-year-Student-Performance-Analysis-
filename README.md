@@ -55,6 +55,7 @@ Using **Python-based Exploratory Data Analysis (EDA)** techniques, we uncover pa
 | `reading_score` | Reading marks |
 | `writing_score` | Writing marks |
 | `average_score` | Average score |
+| `total` | Total |
 
 ---
 
